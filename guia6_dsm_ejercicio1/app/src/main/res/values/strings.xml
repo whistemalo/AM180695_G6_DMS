@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHub App - Ver Repositorios</string>
+
+    <string name="username">Nombre de usuario</string>
+    <string name="login">Ver Perfil de Git Hub</string>
+    <string name="repositories">Repositorios</string>
+</resources>
